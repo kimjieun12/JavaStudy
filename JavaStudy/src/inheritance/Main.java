@@ -16,7 +16,7 @@ public class Main {
 		Child p1 = new Child(); // Up Casting
 		pp1[0] = p1;
 		Child2 p2 = new Child2();
-		pp1[1] = p2;
+		pp1[1] = p2    ;
 		
 		
 	}
