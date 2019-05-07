@@ -1,7 +1,7 @@
 package inheritance;
 
 public class Child extends Parent {
-	void b() {
+	void b()    {
 		a();
 	}
 }
